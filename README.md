@@ -21,7 +21,7 @@
 ### Phase 1: 커널 모듈과 디버깅 (Environment & Debugging)
 - [x] **`00_env_setup/`**: 크로스 컴파일 환경 구축 및 커널 소스 트리(Module.symvers) 동기화
 - [x] **`01_hello_module/`**: 기본 커널 모듈 제작 및 적재 실습
-- [ ] **`02_ftrace_debugging/`**: 커널 내부 함수 호출 흐름 추적 (현업 필수 디버깅 툴)
+- [x] **`02_ftrace_debugging/`**: 커널 내부 함수 호출 흐름 추적 (현업 필수 디버깅 툴)
 
 ### Phase 2: 코어 서브시스템 분석 (Core Subsystems)
 - [ ] **`03_process_thread/`**: 태스크(Task) 생성 및 스케줄링 이론/실습
